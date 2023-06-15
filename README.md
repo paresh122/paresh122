@@ -1,9 +1,11 @@
-<a href="https://paresh122.github.io/paresh-portfolio.github.io/" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg" alt="MasterHead"></a>
-
+<a href="https://paresh122.github.io/paresh-portfolio.github.io/" target="_blank">
+  <img src="https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg" alt="MasterHead">
+</a>
 
 <h1 align="center">Hi 👋, I'm Paresh</h1>
 <h3 align="center">Data Science Enthusiast | Harnessing Insights from Data through Analytics and Machine Learning</h3>
-<img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
+<img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif" autoplay>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paresh122&label=Profile%20views&color=0e75b6&style=flat" alt="paresh122" /> </p>
 
