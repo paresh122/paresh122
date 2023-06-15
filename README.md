@@ -5,9 +5,7 @@
 <h1 align="center">Hi 👋, I'm Paresh</h1>
 <h3 align="center">Data Science Enthusiast | Harnessing Insights from Data through Analytics and Machine Learning</h3>
 <div align="right">
-  <video width="400" autoplay loop muted playsinline>
-    <source src="https://indoanalytica.com/static/images/data-science-2.gif" type="video/mp4">
-  </video>
+  <canvas id="gif-canvas" width="400"></canvas>
 </div>
 
 
