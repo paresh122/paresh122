@@ -4,7 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Paresh</h1>
 <h3 align="center">Data Science Enthusiast | Harnessing Insights from Data through Analytics and Machine Learning</h3>
-<img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif" autoplay>
+<img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif" id="animated-gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paresh122&label=Profile%20views&color=0e75b6&style=flat" alt="paresh122" /> </p>
