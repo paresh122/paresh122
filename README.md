@@ -1,4 +1,4 @@
-<a href="https://paresh122.github.io/paresh-portfolio.github.io/" target="_blank">
+<a href="https://pareshpatil-portfolio.netlify.app/" target="_blank">
   <img src="https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg" alt="MasterHead">
 </a>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://paresh122.github.io/paresh-portfolio.github.io/](https://paresh122.github.io/paresh-portfolio.github.io/)
+- 👨‍💻 All of my projects are available at [https://pareshpatil-portfolio.netlify.app/](https://pareshpatil-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on Medium [https://medium.com/@pp1222001](https://medium.com/@pp1222001)
 
