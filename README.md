@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://pareshpatil-portfolio.netlify.app/](https://pareshpatil-portfolio.netlify.app/)
+- 👨‍💻 Look at my portfolio [https://pareshpatil-portfolio.netlify.app/](https://pareshpatil-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on Medium [https://medium.com/@pp1222001](https://medium.com/@pp1222001)
 
